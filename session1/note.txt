@@ -1,0 +1,53 @@
+indi (3 excercise) 45%
+final assessment 45% => slide + code 4đ, present 3đ, debate 3đ
+participation 10%
+
+PASSED => average >= 5 & final assessment >= 4
+
+SESSION 1:
+
+Machine Learning 
+Deeplearning
+Nartural Language Processing
+Computer Vision
+Generative AI
+
+.py: chạy từ trên xuống dưới
+.ipynb (jupyter notebook) : chạy theo từng block code(dùng để debug)
+
+python auto detect kiểu dữ liệu
+
+list = [0, 1, "a", True, ...]
+typle = (0, 1, "a", True, ...)
+dictionary = {key1: value1, key2: value2, key3: value3,...}
+
+LIST:
+list = [0, 1, "a", True]
+index+  0  1   2    3
+index- -4 -3  -2   -1
+list[1] = 1
+list[-3] = 1
+
+-slicing: list[start:end:step]
+
+Function
+
+Hàm: 
+    def ten()
+        return
+
+(.ipynb)
+
+
+Class:
+    class ten()
+        def ten1()
+        def ten2()
+        def ten3()
+    import tenclass
+        tenclass.ten1()
+
+(.py)
+
+SESSION 3:
+
